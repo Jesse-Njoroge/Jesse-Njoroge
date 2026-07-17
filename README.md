@@ -36,32 +36,25 @@ I enjoy transforming complex business requirements into elegant, maintainable, a
 | ⛓ Blockchain | Solidity • Ethereum • Smart Contracts |
 
 ---
-## 🔥 GitHub Streak
 
-<p align="center">
+##   Currently Building
 
-<img src="https://streak-stats.demolab.com?user=Jesse-Njoroge&theme=tokyonight&hide_border=true"/>
-
-</p>
-# Currently Learning
-
-- AI Engineering
-- Large Language Models (LLMs)
-- Kubernetes
-- Distributed Systems
-- Advanced Data Engineering
-- Blockchain Technology
-
+- 🏫 Enterprise Multi-Tenant School ERP
+- 📊 Modern Data Engineering Pipelines
+- 🤖 AI Agent Applications
+- ☁️ Cloud-Native Backend Systems
+- ⛓ Blockchain Solutions
 ---
 
-# 📂 Featured Projects
+##   Featured Projects
 
-- 🏫 Multi-Tenant School ERP
-- 📊 Data Engineering ETL Pipeline
-- 🤖 AI Agent Applications
-- 🛒 E-commerce Platform
-- 📈 Analytics Dashboard
-- 🌐 Portfolio Website
+| Project | Description |
+|---------|-------------|
+| 🏫 School ERP SaaS | Multi-tenant Laravel + Next.js platform |
+| 📊 Data Pipeline | ETL pipeline with PostgreSQL |
+| 🤖 AI Agent | LLM-powered automation assistant |
+| 🛒 E-Commerce Platform | Full-stack commerce application |
+| 🌐 Portfolio Website | Personal website and blog |
 
 ---
 
@@ -71,12 +64,23 @@ I enjoy transforming complex business requirements into elegant, maintainable, a
 [![Jesse.N's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jesse-Njoroge&theme=github-compact)](https://github.com/Jesse-Njoroge/github-readme-activity-graph)
 
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-- LinkedIn
-- Portfolio Website
-- jessenjoroge010@gmail.com
+<p align="center">
 
+<a href="https://linkedin.com/in/Jesse-Njoroge">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:jessenjoroge010@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
