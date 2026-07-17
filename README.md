@@ -3,7 +3,7 @@ Hi 👋, I'm Jesse
 </h1>
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=435&lines=Software+Engineer+%E2%80%A2+Data+Engineer+%E2%80%A2+AI+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=435&lines=Software+Engineer+%E2%80%A2+Data+Engineer+" alt="Typing SVG" /></a>
 </h3>
 
 <p align="center">
