@@ -111,6 +111,9 @@ Currently, I'm focused on building enterprise-grade applications, automation too
 [![GitHub Streak](https://streak-stats.demolab.com/?Jesse Njoroge=DenverCoder1)](https://git.io/streak-stats)
 
 ---
+Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jesse.N)](https://github.com/Jesse.N/github-readme-activity-graph)
+
 
 # 📫 Connect With Me
 
