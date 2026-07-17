@@ -12,7 +12,7 @@ Building scalable applications • Data Platforms • Cloud Solutions • AI Sys
 
 </p>
 
-## 🚀 Professional Summary
+##   Professional Summary
 
 I design and build scalable software solutions, modern web applications, secure APIs, and reliable data platforms.
 
@@ -22,7 +22,7 @@ I enjoy transforming complex business requirements into elegant, maintainable, a
 
 ---
 
-## 🎯 Core Expertise
+##   Core Expertise
 
 | Area | Technologies |
 |------|--------------|
@@ -36,7 +36,15 @@ I enjoy transforming complex business requirements into elegant, maintainable, a
 | ⛓ Blockchain | Solidity • Ethereum • Smart Contracts |
 
 ---
+##   GitHub Analytics
 
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 # Currently Learning
 
 - AI Engineering
