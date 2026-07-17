@@ -105,6 +105,10 @@ Currently, I'm focused on building enterprise-grade applications, automation too
 - 🌐 Portfolio Website
 
 ---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+
 ## 📈 Contribution Graph
 
 [![Jesse.N's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jesse-Njoroge)](https://github.com/Jesse-Njoroge/github-readme-activity-graph)
