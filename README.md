@@ -108,7 +108,7 @@ Currently, I'm focused on building enterprise-grade applications, automation too
 
 # 📈 GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?Jesse Njoroge=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?Jesse.N=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 Contribution Graph
