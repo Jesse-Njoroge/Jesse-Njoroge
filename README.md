@@ -26,35 +26,35 @@ I enjoy transforming complex business requirements into elegant, maintainable, a
 
 | Area | Technologies |
 |------|--------------|
-| 💻 Languages | PHP • Python • JavaScript • TypeScript • Java |
-| ⚙️ Backend | Laravel • Node.js • REST APIs • GraphQL |
-| 🎨 Frontend | React • Next.js • Tailwind CSS |
-| 🗄 Databases | PostgreSQL • MySQL • MongoDB • Redis |
-| 📊 Data Engineering | Apache Spark • Airflow • Kafka • ETL |
-| 🤖 AI | LangChain • OpenAI • RAG • AI Agents |
-| ☁️ Cloud & DevOps | Docker • Kubernetes • AWS • Azure • GCP |
-| ⛓ Blockchain | Solidity • Ethereum • Smart Contracts |
+|  Languages | PHP • Python • JavaScript • TypeScript • Java |
+|  Backend | Laravel • Node.js • REST APIs • GraphQL |
+|  Frontend | React • Next.js • Tailwind CSS |
+|  Databases | PostgreSQL • MySQL • MongoDB • Redis |
+|  Data Engineering | Apache Spark • Airflow • Kafka • ETL |
+|  AI | LangChain • OpenAI • RAG • AI Agents |
+|  Cloud & DevOps | Docker • Kubernetes • AWS • Azure • GCP |
+|  Blockchain | Solidity • Ethereum • Smart Contracts |
 
 ---
 
 ##   Currently Building
 
-- 🏫 Enterprise Multi-Tenant School ERP
-- 📊 Modern Data Engineering Pipelines
-- 🤖 AI Agent Applications
-- ☁️ Cloud-Native Backend Systems
-- ⛓ Blockchain Solutions
+-  Enterprise Multi-Tenant School ERP
+-  Modern Data Engineering Pipelines
+-  AI Agent Applications
+-  Cloud-Native Backend Systems
+-  Blockchain Solutions
 ---
 
 ##   Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🏫 School ERP SaaS | Multi-tenant Laravel + Next.js platform |
-| 📊 Data Pipeline | ETL pipeline with PostgreSQL |
-| 🤖 AI Agent | LLM-powered automation assistant |
-| 🛒 E-Commerce Platform | Full-stack commerce application |
-| 🌐 Portfolio Website | Personal website and blog |
+|  School ERP SaaS | Multi-tenant Laravel + Next.js platform |
+|  Data Pipeline | ETL pipeline with PostgreSQL |
+|  AI Agent | LLM-powered automation assistant |
+|  E-Commerce Platform | Full-stack commerce application |
+|  Portfolio Website | Personal website and blog |
 
 ---
 
