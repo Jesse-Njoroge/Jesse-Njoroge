@@ -22,58 +22,106 @@ Currently, I'm focused on building enterprise-grade applications, automation too
 
   ---
 
-## 💻 Tech Stack
+---
+
+# 💻 Tech Stack
+
+## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,python,java,postgres,mysql,mongodb,redis,docker,git,github,linux,aws,azure,gcp,tailwind,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,python,js,ts,java,cs,bash" />
 </p>
 
-## Languages
+---
 
-- PHP
-- Python
-- JavaScript
-- TypeScript
-- SQL
-- Java
-- Bash
+## 🎨 Frontend Development
 
-## Frontend
-
-React,Next.js,HTML5,CSS3,Tailwind CSS,ShadCN UI
-
-## Backend
-
-- Laravel
-- Node.js
-- Express.js
-- REST APIs
-- GraphQL
-
-## Databases
-
-- PostgreSQL,MySQL,MongoDB,Redis
-
-## Data Engineering
-
-- Apache Spark Apache,Airflow,Kafka,Pandas,NumPy,PySpark
-
-## DevOps
-
-- Docker
-- Git
-- GitHub Actions
-- Linux
-- Nginx
-
-## Cloud
-
-- AWS
-- Microsoft Azure
-- Google Cloud
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,sass,vite,webpack" />
+</p>
 
 ---
+
+## ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,spring,dotnet,graphql,postman" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" />
+</p>
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,linux,bash,nginx,aws,azure,gcp,cloudflare,terraform" />
+</p>
+
+---
+
+## 📊 Data Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,docker,linux,git,github,aws,gcp" />
+</p>
+
+<p align="center">
+
+**Also experienced with**
+
+Apache Spark • PySpark • Apache Airflow • Kafka • ETL Pipelines • Data Warehousing • Data Lakes • Pandas • NumPy
+
+</p>
+
+---
+
+## 🤖 AI & Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda" />
+</p>
+
+<p align="center">
+
+**Working with**
+
+LLMs • AI Agents • RAG • LangChain • OpenAI APIs • MCP • Vector Databases
+
+</p>
+
+---
+
+## ⛓️ Blockchain & Web3
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" height="48" alt="Solidity"/>
+  <img src="https://cdn.simpleicons.org/ethereum" width="48" height="48" alt="Ethereum"/>
+  <img src="https://cdn.simpleicons.org/web3dotjs" width="48" height="48" alt="Web3.js"/>
+  <img src="https://cdn.simpleicons.org/ipfs" width="48" height="48" alt="IPFS"/>
+</p>
+
+<p align="center">
+
+**Blockchain Technologies**
+
+Solidity • Ethereum • Smart Contracts • Web3.js • Ethers.js • Hardhat • Foundry • IPFS • MetaMask
+
+</p>
+
+---
+
+## 🛠️ Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,githubactions,npm,yarn,pnpm,docker,figma" />
+</p>
 
 # Currently Learning
 
