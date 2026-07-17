@@ -109,7 +109,7 @@ Currently, I'm focused on building enterprise-grade applications, automation too
 
 ## 📈 Contribution Graph
 
-[![Jesse.N's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jesse-Njoroge)](https://github.com/Jesse-Njoroge/github-readme-activity-graph)
+[![Jesse.N's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jesse-Njoroge&theme=github-compact)](https://github.com/Jesse-Njoroge/github-readme-activity-graph)
 
 
 # 📫 Connect With Me
