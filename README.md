@@ -84,7 +84,6 @@ I enjoy transforming complex business requirements into elegant, maintainable, a
 
 ---
 
- Thanks for visiting my profile!
 
 
 
