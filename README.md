@@ -106,8 +106,6 @@ Currently, I'm focused on building enterprise-grade applications, automation too
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
 
 ## 📈 Contribution Graph
 
