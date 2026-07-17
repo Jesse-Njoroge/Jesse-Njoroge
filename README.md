@@ -22,9 +22,11 @@ Currently, I'm focused on building enterprise-grade applications, automation too
 
   ---
 
-# 🛠 Tech Stack
+## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,PHP,Python,JavaScript,TypeScript,SQL,Java,Bash,React,Next.js,HTML5,CSS3,Tailwind CSS,ShadCN UI,PostgreSQL,MySQL,MongoDB,Redis,Apache Spark Apache,Airflow,Kafka,Pandas,NumPy,PySpark)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,python,java,postgres,mysql,mongodb,redis,docker,git,github,linux,aws,azure,gcp,tailwind,html,css,vscode" />
+</p>
 
 ## Languages
 
