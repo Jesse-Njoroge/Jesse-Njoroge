@@ -24,6 +24,8 @@ Currently, I'm focused on building enterprise-grade applications, automation too
 
 # 🛠 Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,PHP,Python,JavaScript,TypeScript,SQL,Java,Bash,React,Next.js,HTML5,CSS3,Tailwind CSS,ShadCN UI,PostgreSQL,MySQL,MongoDB,Redis,Apache Spark Apache,Airflow,Kafka,Pandas,NumPy,PySpark)](https://skillicons.dev)
+
 ## Languages
 
 - PHP
@@ -36,12 +38,7 @@ Currently, I'm focused on building enterprise-grade applications, automation too
 
 ## Frontend
 
-- React
-- Next.js
-- HTML5
-- CSS3
-- Tailwind CSS
-- ShadCN UI
+React,Next.js,HTML5,CSS3,Tailwind CSS,ShadCN UI
 
 ## Backend
 
@@ -53,19 +50,11 @@ Currently, I'm focused on building enterprise-grade applications, automation too
 
 ## Databases
 
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
+- PostgreSQL,MySQL,MongoDB,Redis
 
 ## Data Engineering
 
-- Apache Spark
-- Apache Airflow
-- Kafka
-- Pandas
-- NumPy
-- PySpark
+- Apache Spark Apache,Airflow,Kafka,Pandas,NumPy,PySpark
 
 ## DevOps
 
