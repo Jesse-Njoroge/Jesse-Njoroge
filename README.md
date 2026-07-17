@@ -59,12 +59,12 @@ I enjoy transforming complex business requirements into elegant, maintainable, a
 ---
 
 
-## 📈 Contribution Graph
+##   Contribution Graph
 
 [![Jesse.N's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jesse-Njoroge&theme=github-compact)](https://github.com/Jesse-Njoroge/github-readme-activity-graph)
 
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
 
@@ -84,7 +84,7 @@ I enjoy transforming complex business requirements into elegant, maintainable, a
 
 ---
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
 
 
 
