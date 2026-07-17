@@ -12,25 +12,13 @@ Building scalable applications • Data Platforms • Cloud Solutions • AI Sys
 
 </p>
 
-I am a passionate Full Stack Software Developer and Data Engineer who enjoys designing scalable applications, building secure APIs, and creating modern data solutions.
+## 🚀 Professional Summary
 
-I enjoy solving real-world problems through software engineering, cloud computing, artificial intelligence, and data engineering.
+I design and build scalable software solutions, modern web applications, secure APIs, and reliable data platforms.
 
-Currently, I'm focused on building enterprise-grade applications, automation tools, and AI-powered solutions.
+My passion lies in solving real-world challenges through software engineering, cloud-native architecture, data engineering, artificial intelligence, and automation.
 
----
-
-#   About Me
-
-- 💻 Full Stack Software Developer
-- 📊 Data Engineer
-- 🌐 Backend & API Developer
-- ⚡ Passionate about Cloud Computing
-- 🤖 AI & Automation Enthusiast
-- 📚 Always learning new technologies
-- 🌍 Open Source Contributor
-
-  ---
+I enjoy transforming complex business requirements into elegant, maintainable, and high-performance systems.
 
 ---
 
