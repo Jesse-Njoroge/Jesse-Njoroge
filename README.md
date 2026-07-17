@@ -104,12 +104,6 @@ Currently, I'm focused on building enterprise-grade applications, automation too
 - 📈 Analytics Dashboard
 - 🌐 Portfolio Website
 
-  ---
-
-# 📈 GitHub Statistics
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jesse-Njoroge" alt="GitHub Streak" /></a>
-
 ---
 ## 📈 Contribution Graph
 
@@ -120,7 +114,7 @@ Currently, I'm focused on building enterprise-grade applications, automation too
 
 - LinkedIn
 - Portfolio Website
-- Email
+- jessenjoroge010@gmail.com
 
 
 ---
