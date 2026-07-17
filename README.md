@@ -22,104 +22,20 @@ I enjoy transforming complex business requirements into elegant, maintainable, a
 
 ---
 
-# 💻 Tech Stack
+## 🎯 Core Expertise
 
-## 💻 Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,js,ts,java,cs,bash" />
-</p>
-
----
-
-## 🎨 Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,sass,vite,webpack" />
-</p>
+| Area | Technologies |
+|------|--------------|
+| 💻 Languages | PHP • Python • JavaScript • TypeScript • Java |
+| ⚙️ Backend | Laravel • Node.js • REST APIs • GraphQL |
+| 🎨 Frontend | React • Next.js • Tailwind CSS |
+| 🗄 Databases | PostgreSQL • MySQL • MongoDB • Redis |
+| 📊 Data Engineering | Apache Spark • Airflow • Kafka • ETL |
+| 🤖 AI | LangChain • OpenAI • RAG • AI Agents |
+| ☁️ Cloud & DevOps | Docker • Kubernetes • AWS • Azure • GCP |
+| ⛓ Blockchain | Solidity • Ethereum • Smart Contracts |
 
 ---
-
-## ⚙️ Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,spring,dotnet,graphql,postman" />
-</p>
-
----
-
-## 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" />
-</p>
-
----
-
-## ☁️ DevOps & Cloud
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,linux,bash,nginx,aws,azure,gcp,cloudflare,terraform" />
-</p>
-
----
-
-## 📊 Data Engineering
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,docker,linux,git,github,aws,gcp" />
-</p>
-
-<p align="center">
-
-**Also experienced with**
-
-Apache Spark • PySpark • Apache Airflow • Kafka • ETL Pipelines • Data Warehousing • Data Lakes • Pandas • NumPy
-
-</p>
-
----
-
-## 🤖 AI & Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda" />
-</p>
-
-<p align="center">
-
-**Working with**
-
-LLMs • AI Agents • RAG • LangChain • OpenAI APIs • MCP • Vector Databases
-
-</p>
-
----
-
-## ⛓️ Blockchain & Web3
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" height="48" alt="Solidity"/>
-  <img src="https://cdn.simpleicons.org/ethereum" width="48" height="48" alt="Ethereum"/>
-  <img src="https://cdn.simpleicons.org/web3dotjs" width="48" height="48" alt="Web3.js"/>
-  <img src="https://cdn.simpleicons.org/ipfs" width="48" height="48" alt="IPFS"/>
-</p>
-
-<p align="center">
-
-**Blockchain Technologies**
-
-Solidity • Ethereum • Smart Contracts • Web3.js • Ethers.js • Hardhat • Foundry • IPFS • MetaMask
-
-</p>
-
----
-
-## 🛠️ Development Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,githubactions,npm,yarn,pnpm,docker,figma" />
-</p>
 
 # Currently Learning
 
