@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jesse
 
-## Software Engineer | Data Engineer
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFFC&width=900&lines=Software+Engineer+%7C+Data+Engineer" alt="Typing SVG" /></a>
 
 I am a passionate Full Stack Software Developer and Data Engineer who enjoys designing scalable applications, building secure APIs, and creating modern data solutions.
 
