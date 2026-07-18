@@ -46,6 +46,7 @@ I enjoy transforming complex business requirements into elegant, maintainable, a
 -  Blockchain Solutions
 ---
 
+
 ##   Featured Projects
 
 | Project | Description |
