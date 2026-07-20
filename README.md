@@ -27,7 +27,7 @@ I enjoy transforming complex business requirements into elegant, maintainable, a
 | Area | Technologies |
 |------|--------------|
 |  Languages | PHP • Python • JavaScript • TypeScript • Java |
-|  Backend | Laravel • Node.js • REST APIs • GraphQL |
+|  Backend | Laravel • Node.js • REST APIs • GraphQL | Java
 |  Frontend | React • Next.js • Tailwind CSS |
 |  Databases | PostgreSQL • MySQL • MongoDB • Redis |
 |  Data Engineering | Apache Spark • Airflow • Kafka • ETL |
