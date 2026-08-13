@@ -51,7 +51,7 @@ I enjoy transforming complex business requirements into elegant, maintainable, a
 
 ##   Featured Projects
 
-| Project | Description |
+| Project | Description  |
 |---------|-------------|
 |  School ERP SaaS | Multi-tenant Laravel + Next.js platform |
 |  Data Pipeline | ETL pipeline with PostgreSQL |
