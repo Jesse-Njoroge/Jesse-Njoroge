@@ -23,6 +23,7 @@ I enjoy transforming complex business requirements into elegant, maintainable, a
 
 ---
 
+
 ##   Core Expertise
 
 | Area | Technologies |
